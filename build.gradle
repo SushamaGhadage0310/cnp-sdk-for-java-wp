@@ -289,7 +289,7 @@ publishing {
                     developer{
                         id = 'vantivSDKSupport'
                         name = 'VantivSDKSupport'
-                        email = 'ssdksupport@worldpay.com'
+                        email = 'sdksupport@worldpay.com'
                     }
                 }
                 scm {
